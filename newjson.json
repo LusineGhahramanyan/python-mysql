@@ -1,0 +1,17 @@
+[
+	{
+		"name": "Json1",
+		"age": 18,
+		"city": "Google1"
+	},
+	{
+		"name": "Json2",
+		"age": 20,
+		"city": "Google2"
+	},
+	{
+		"name": "Json3",
+		"age": 2018,
+		"city": "Google3"
+	}
+]
